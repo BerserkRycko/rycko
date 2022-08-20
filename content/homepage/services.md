@@ -19,7 +19,7 @@ Espero que pueda ser parte de tu historia.
 
 Puedo ayudarte a personalizar tu sitio web a través de Wordpress. Puedo modificar el diseño y flujo de usuarios a través de funciones en PHP, edición y ajuste de imágenes.
 
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
+![Nice picture to make you pay me ;-)](images/Web-Design.png)
 
 ¿Está buscando un profesional de diseño y desarrollo web para personalizar su tema de Wordpress? ¿Quieres crear un diseño desde cero? ¿Hay algún problema con el tema de su sitio web actual y desea corregirlo? Contáctame.
 
