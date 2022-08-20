@@ -19,7 +19,7 @@ Espero que pueda ser parte de tu historia.
 
 Puedo ayudarte a personalizar tu sitio web a través de Wordpress. Puedo modificar el diseño y flujo de usuarios a través de funciones en PHP, edición y ajuste de imágenes.
 
-![Nice picture to make you pay me ;-)](images/Web-Design.png)
+![Diseño web ;-)](images/Web-Design.png)
 
 ¿Está buscando un profesional de diseño y desarrollo web para personalizar su tema de Wordpress? ¿Quieres crear un diseño desde cero? ¿Hay algún problema con el tema de su sitio web actual y desea corregirlo? Contáctame.
 
@@ -29,7 +29,7 @@ Puedo ayudarte a personalizar tu sitio web a través de Wordpress. Puedo modific
 
 Los servicios de integración de wordpress te permiten integrar de manera simple y rápida cualquier software, complemento o tema en tu sitio para que puedas concentrarte en lo que es importante: ¡Tu proyecto!
 
-![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg)
+![Wordpress](images/Wordpress.png)
 
 
 ---
@@ -38,11 +38,15 @@ Los servicios de integración de wordpress te permiten integrar de manera simple
 
 Soy un desarrollador web profesional y un desarrollador front-end, que puede crear el sitio web perfecto para tu negocio.
 
+![Wordpress](images/Wordpress.png)
+
 ---
 
 ## Configuración de servicios de hosting
 
 Puedo ayudarte a mejorar las configuraciones de su servidor web en digitalocean, aws, hostinger, godaddy, bluehost, google cloud platform, github-pages, netlify y mucho más.
+
+![Servicios de Hosting](images/Hosting.png)
 
 Puedo implementar y configurar rápidamente una amplia gama de servidores web. 
 
@@ -51,6 +55,8 @@ Puedo implementar y configurar rápidamente una amplia gama de servidores web.
 ## Servicios SEO
 
 Mis servicios incluyen optimización para motores de búsqueda.
+
+![Posicionamiento SEO](images/SEO.png)
 
 Te ayudare a encontrar las palabras clave perfectas para impulsar el tráfico y hacer crecer su negocio.
 
