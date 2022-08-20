@@ -9,7 +9,7 @@ Quiero ayudarte a crecer tu empresa, negocio, emprendimiento o marca personal. P
 Recibiras un servicios completamente profesional y ético de mi parte.
 
 Te invito a recibir un analisis de tu sitio ¡GRATIS! mandame un correo a {{<icon class="fa fa-envelope">}}&nbsp;[rycko.arcr@gmail.com](mailto:rycko.arcr@gmail.com) o un whatsapp
- al {{<icon class="fa fa-whatsapp">}}&nbsp;[+52 272 2653873](tel:+522722653873) para saber como.
+ al {{<icon class="fa fa-whatsapp">}}&nbsp;[+52 272 2653873](http://wa.me/2722653873) para saber como.
 
 Espero que pueda ser parte de tu historia. 
 
