@@ -12,7 +12,6 @@ Soy un desarrollador web profesional, pero también me gusta hacer marketing par
 
 Le daré un sitio web para cumplir con sus objetivos y le ofreceré ideas sobre cómo puede desarrollar su empresa. Mi experiencia en agencias de publicidad, así como en agencias de marketing digital, me ha enseñado a realizar estrategias de marketing que traen éxito. Siempre he querido hacer algo diferente con la forma en que comercializamos productos y servicios.
 
-
 ### Optimización de recursos
 
 Te ayudaré a optimizar tus recursos para evitar que gastes más de lo necesario, te ayudaré a obtener créditos que podrás destinar al hosting de tu negocio, buscaremos los mejores nombres de dominio e integraremos el mejor CRM.
