@@ -38,7 +38,7 @@ Los servicios de integración de wordpress te permiten integrar de manera simple
 
 Soy un desarrollador web profesional y un desarrollador front-end, que puede crear el sitio web perfecto para tu negocio.
 
-![Wordpress](images/Wordpress.png)
+![Desarrollo web](images/Desarrollo-web.png)
 
 ---
 
