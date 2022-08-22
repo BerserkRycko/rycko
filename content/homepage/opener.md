@@ -10,3 +10,5 @@ Yo soy Rycko y ayudo a los propietarios de pequeñas, medianas y grandes empresa
 Trabajo con muchos tipos de proyectos web, en particular me encanta crear sitios web e implementar negocios a través de diferentes canales de venta.
 
 Me gusta resolver problemas reales, analizar, implementar, desarrollar e involucrarme de manera profesional en cada aspecto del negocio de manera ética y profesional.
+
+[visita mi blog](../blog)
