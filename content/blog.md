@@ -6,6 +6,8 @@ Espero que te sea de utilidad."
 css: 'css/screen.css'
 ---
 
+![Blog de Rycko ](../../images/blog-page.png)
+
 Aqui vas a encontrar información valiosa sobre desarrollo web, posicionamiento organico SEO, marketing digital y mucho más. 
 
 Toda está información la he recogido a lo largo de los años.

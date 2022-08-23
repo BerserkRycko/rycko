@@ -4,6 +4,8 @@ description: 'Probablemente haya oído hablar de la reciente actualización del 
 caption: 'Posiciona tu negocio.'
 ---
 
+![5 Tips para posicionar tu sitio web ](../../images/5-tips-seo.png)
+
 Probablemente haya oído hablar de la reciente actualización del algoritmo de Google, pero ¿qué significa para las pequeñas empresas? Siga leyendo para descubrir cinco consejos para posicionar su sitio web para pequeñas empresas.
 
 ## Concéntrese en la calidad sobre la cantidad.
