@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+css: 'css/screen.css'
 ---
 
 Aqui vas a encontrar información valiosa sobre desarrollo web, posicionamiento organico SEO, marketing digital y mucho más. 
