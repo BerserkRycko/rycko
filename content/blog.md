@@ -1,5 +1,8 @@
 ---
 title: "Blog"
+description: "Aqui vas a encontrar información valiosa sobre desarrollo web, posicionamiento organico SEO, marketing digital y mucho más.
+Toda está información la he recogido a lo largo de los años.
+Espero que te sea de utilidad."
 css: 'css/screen.css'
 ---
 
@@ -34,5 +37,11 @@ Adquiere 300 dlls que google te regala y aprende como utilizarlos para hostear t
 El desarrollo web es el proceso de desarrollo de un sitio web. El término desarrollo web, al igual que el desarrollo de software y el desarrollo de hardware, se utiliza para describir tanto un proceso como el resultado de ese proceso.
 
 [Leer más](../blog/que-es-desarrollo-web)
+
+### 5 consejos para posicionar tu sitio web para pequeñas empresas
+
+Probablemente haya oído hablar de la reciente actualización del algoritmo de Google, pero ¿qué significa para las pequeñas empresas? Siga leyendo para descubrir cinco consejos para posicionar su sitio web para pequeñas empresas.
+
+[Leer más](../blog/5-tips-para-seo-pequenas-empresas)
 
 [Regresar a la página principal](/)
