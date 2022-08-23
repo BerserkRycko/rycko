@@ -23,4 +23,6 @@ Además de brindar un servicio excepcional, también debe asegurarse de que su s
 ## Se consistente.
 Si desea posicionar su sitio web para pequeñas empresas, debe ser coherente con su mensaje en todos los canales. Eso incluye su sitio web, perfiles de redes sociales, campañas de correo electrónico y más.
 
+**[regresar a la pagina de blog](../../blog)**
 
+Si te interesa saber más mandame un whatsapp -> {{<icon class="fa fa-whatsapp">}}&nbsp;[Haz click aquí.](http://wa.me/2722653873)
