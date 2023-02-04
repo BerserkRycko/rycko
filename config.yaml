@@ -1,0 +1,94 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Programación web"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Programación web"
+  description: "Proveedor de servicios de programación web, maquetación web, reparación de sitios y mejoramiento, los mantenemos y los administramos por ti."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    tiktok: "#"
+    instagram: "#"
+    facebook: "#"
+    youtube: "#"
+
+  location:
+    - "Colonia centro, Orizaba, Veracruz."
+
+  contact:
+    - "negociosrentablesdigitales@gamail.com"
+    - "272 143 2867"
+
+  copyright: "© 2022 Servicios de programación web"
+
+menus:
+  main:
+    - name: "Inicio"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Como trabajamos"
+      url: "/work-plan"
+      weight: 2
+
+    - name: "Quienes somos"
+      url: "/about"
+      weight: 3
+
+    - name: "Precios"
+      url: "/price"
+      weight: 4
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
+
+  buttons:
+    - name: "Consulta gratuita"
+      url: "https://bit.ly/3VJy43S"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Inicio"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Como trabajamos"
+      url: "/#"
+      weight: 2
+
+    - name: "Quienes somos"
+      url: "/#"
+      weight: 3
+
+    - name: "Precio"
+      url: "/#"
+      weight: 4
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
+
+    - name: "Reserva una consulta gratis"
+      url: "https://bit.ly/3VJy43S"
+      weight: 6
+
+taxonomies:
+  series: "series"
+  tags: "tags"

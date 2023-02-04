@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Lo que podemos hacer por ti"
+  text: "Nuestros servicios están pensados en empresas y emprendedores que tienen la necesidad de un espacio en internet que les pertenezca y que sea creado pensando en ellos."
+  cards:
+    - image: "images/static_website.png"
+      title: "Sitios web informativos"
+      text: "los sitios web informativos son utiles para que pueda ser consultado por clientes potenciales y despues hacer transacciones en otra plataforma como whatsapp. También son útiles para poder posicionarse dentro de un mercado o nicho por medio de palabras clave en artículos. Estos son ejemplos de como un sitio web de este tipo puede adaptarse a su negocio."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/ecommerce.png"
+      title: "Tienda en línea"
+      text: "Las tiendas en línea son sitios web que sirven para hacer transacciones, los usuarios se pueden registrarse, agregar artículos al carrito, pagar, agregar direcciones de envío y todo lo que se puede hacer desde una tienda fisica desde la comodidad de su casa."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/landing_page.png"
+      title: "Landing pages"
+      text: "Las landing pages son sitios diseñados para convencer a los clientes potenciales que la visitan, de realizar una acción como proporcionar un correo electrónico, entrar a un webinar, agendar una cita o hasta comprar un producto."
+      button:
+        label: "Learn more"
+        url: "#"

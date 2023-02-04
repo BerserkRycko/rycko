@@ -1,0 +1,9 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "¡Empieza ya!"
+  image: "images/cta.png"
+  button:
+    label: "Reserva una consulta gratuita"
+    url: "https://bit.ly/3VJy43S"
