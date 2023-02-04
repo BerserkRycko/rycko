@@ -3,4 +3,4 @@
   command = "hugo --gc --minift"
   
 [build.environment]
-  HUGO_VERSION = "0.85.9"
+  HUGO_VERSION = "0.83.1"
