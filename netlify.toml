@@ -5,3 +5,4 @@
 [build.environment]
  HUGO_VERSION = "0.101.0"
  GO_VERSION = "1.18.4"
+ HUGO_ENV=production
