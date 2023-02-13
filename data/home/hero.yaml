@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "servicios de programación web profesionales"
+  title: "Servicios de programación web"
   text: "Ofrecemos servicios profesionales de programación web para ayudarle a crear un sitio web que sea funcional y atractivo. Trabajamos contigo para asegurarnos de que tu sitio web está diseñado específicamente para satisfacer tus necesidades, de modo que funcione bien y cumpla su propósito."
 
   buttonPrimary:
-    label: "How we work"
-    url: "#"
+    label: "Nuestra forma de trabajo."
+    url: "/como-trabajamos"
 
   buttonSecondary:
-    label: "Let's talk"
-    url: ""
+    label: "Hablemos"
+    url: "/contacto"
 

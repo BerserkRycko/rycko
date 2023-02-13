@@ -1,17 +1,15 @@
 +++
-title = "¿Cómo trabajamos? - Empresa de Servicios de Programación Web en México"
-description = "¡Ofrecemos servicios de diseño de páginas web así como de programación a medida. Póngase en contacto con nosotros hoy para ver lo que podemos hacer por usted.!"
-date = "2022-11-29"
-aliases =["plan de trabajo", "cómo trabaja una empresa de paginas web", "wireframes", "alojamiento web"]
 author = "Rycko"
+title = "Plantilla gratuita para crear un plan de trabajo"
+date = "2023-02-12"
+description = "Obten gratis una plantilla de plan de trabajo, no tienes que registrarte."
+tags = [
+    "Plan de trabajo",
+    "plantilla gratuita",
+		"Plantilla gratuita de plan de trabajo"
+]
 +++
-
-Ofrecemos servicios de diseño de páginas web así como de programación a medida. Póngase en contacto con nosotros hoy para ver lo que podemos hacer por usted.
-
-Somos una pequeña empresa que ofrece servicios de diseño y programación de sitios web. Nuestro objetivo es proporcionar un servicio de calidad a un precio asequible, trabajamos de manera remota, de manera presencial en la ciudad de México y en el estado de Veracruz.
-
-Hacemos un seguimiento en línea de manera continua desde el primer día y te mantenemos al tanto del avance de tu proyecto.
-
+# ¿Qué es un plan de trabajo?
 Un plan de trabajo es una herramienta esencial para cualquier empresario o emprendedor. Te ayuda a mantenerte centrado en lo que hay que hacer y cuándo.
 
 Esta plantilla gratuita le ayudará a crear un plan de trabajo detallado que incluya todas las tareas necesarias para la creación de su sitio web.
@@ -45,7 +43,7 @@ Cuando este listo para lanzar su nuevo sitio web, hay varias cosas que tendrá q
 Los servicios de alojamiento web le proporcionan espacio en un servidor donde puede almacenar archivos y ejecutar programas. Las soluciones VPS le permiten instalar el software en su propia maquina virtual (básicamente es tener una computadora virtual para alojar su página y no compartir recursos con otras páginas). 
 
 ### Sitio web estático o dinámico
-También tendrá que elegir entre un sitio web estático o dinámico. Los sitios estáticos requieren que cargue cada archivo individualmente, los sitios web estáticos son principalmente informativos y no tienen muchas funcionalidades, mientras que los dinámicos le permiten actualizarlos automáticamente, un buen ejemplo de un sitio web dinámico es una e-commerce, que aparte de mostrar información a través de texto e imagenes también puede realizar otras fuciones como apartar productos, interactuar con una base de datos, hacer transacciones, etc. 
+También tendrá que elegir entre un sitio web estático o dinámico. Los sitios estáticos requieren que cargue cada archivo individualmente, los sitios web estáticos son principalmente informativos y no tienen muchas funcionalidades, mientras que los dinámicos le permiten actualizarlos automáticamente, un buen ejemplo de un sitio web dinámico es una e-commerce, que aparte de mostrar información a través de texto e imagenes también puede realizar otras fuciones como apartar productos, interactuar con una base de datos, hacer transacciones, etc.
 
 ### Recursos web
 Por último, se determinaran los recursos necesarios para el despliegue de la página web, como el espacio de alojamiento, memoria ram, imagenes, textos.

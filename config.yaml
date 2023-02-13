@@ -4,14 +4,14 @@ languageCode: "en-us"
 
 title: "Programación web"
 
-# googleAnalytics: ""
+googleAnalytics: "G-65S3XZGWSZ"
 
 summaryLength: 20
 
 params:
   title: "Programación web"
-  description: "Proveedor de servicios de programación web, maquetación web, reparación de sitios y mejoramiento, los mantenemos y los administramos por ti."
-  images: 
+  description: "Proveedor de servicios de programación web, maquetación web, reparación y mejoramiento de sitios web, los mantenemos y los administramos por ti."
+  images:
     - "images/hero-image.png"
 
   logo: "arrow-up.png"
@@ -39,11 +39,11 @@ params:
 menus:
   main:
     - name: "Inicio"
-      url: "/#hero"
+      url: "/"
       weight: 1
 
     - name: "Como trabajamos"
-      url: "/work-plan"
+      url: "/Como-trabajamos"
       weight: 2
 
     - name: "Quienes somos"
@@ -58,6 +58,10 @@ menus:
       url: "/blog"
       weight: 5
 
+    - name: "Contacto"
+      url: "/contacto"
+      weight: 6
+
   buttons:
     - name: "Consulta gratuita"
       url: "https://bit.ly/3VJy43S"
@@ -66,19 +70,19 @@ menus:
 
   footer:
     - name: "Inicio"
-      url: "/#hero"
+      url: "/"
       weight: 1
 
     - name: "Como trabajamos"
-      url: "/#"
+      url: "/Como-trabajamos"
       weight: 2
 
     - name: "Quienes somos"
-      url: "/#"
+      url: "/about"
       weight: 3
 
     - name: "Precio"
-      url: "/#"
+      url: "/price"
       weight: 4
 
     - name: "Blog"

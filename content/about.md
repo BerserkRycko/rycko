@@ -1,5 +1,5 @@
 +++
-title = "Acerca de nosotros - Empresa de Servicios de Programación Web en México"
+title = "Acerca de nosotros - Empresa de Servicios de Programación Web"
 description = "¡Comienza hoy mismo contactando con nosotros!"
 date = "2022-02-28"
 aliases =["acerca de nosotros", "about-us", "contact"]

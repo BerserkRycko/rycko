@@ -8,23 +8,23 @@ content:
     text: "El tipo de sitio web que necesita depende de su nicho y de sus objetivos comerciales. Nuestro equipo trabajará con usted para crear el sitio web perfecto para sus necesidades. Su sitio debe reflejar su personalidad, su marca y proporcionar una forma eficaz de comunicarse con sus clientes."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+      # - label: "See live"
+      #  url: "#"
 
-      - label: "Read more"
-        url: "#"
+      - label: "Leer más"
+        url: "/sitio-web-personalizado"
 
   - image: "images/savings.png"
     pretitle: "Paga lo justo"
     title: "Paga lo justo"
     text: "Tenemos diferentes tipos de sitios web, páginas de aterrizaje y comercio electrónico. Adaptamos o creamos el sitio web perfecto para ti, no te sobrevendremos servicios, sólo paga por lo que necesitas y utilizas."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+    buttons:
+      # - label: "See live"
+      #  url: "#"
 
-      - label: "Read more"
-        url: "#"
+      - label: "Leer más"
+        url: "/paga-lo-justo"
 
   - image: "images/teach.png"
     pretitle: "Portfolio Service"
@@ -32,8 +32,8 @@ content:
     text: "Te mostramos como utilizar tu sitio web, aunque no tengas experiencia, si no tienes tiempo de administrarlo podemos trabajar contigo para administrarlo por ti."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+      # - label: "See live"
+      #  url: "#"
 
-      - label: "Read more"
-        url: "#"
+      - label: "Leer más"
+        url: "/administra-tu-sitio-web"
