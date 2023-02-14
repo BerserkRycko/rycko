@@ -31,7 +31,7 @@ params:
     - "Colonia centro, Orizaba, Veracruz."
 
   contact:
-    - "negociosrentablesdigitales@gamail.com"
+    - "negociosrentablesdigitales@gmail.com"
     - "272 143 2867"
 
   copyright: "© 2022 Servicios de programación web"
@@ -69,29 +69,13 @@ menus:
       pre: "btn btn-primary text-light"
 
   footer:
-    - name: "Inicio"
-      url: "/"
+    - name: "Términos y condiciones"
+      url: "/terminos-y-condiciones"
       weight: 1
 
-    - name: "Como trabajamos"
-      url: "/Como-trabajamos"
+    - name: "Políticas de privacidad"
+      url: "/politicas-de-privacidad"
       weight: 2
-
-    - name: "Quienes somos"
-      url: "/about"
-      weight: 3
-
-    - name: "Precio"
-      url: "/price"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
-
-    - name: "Reserva una consulta gratis"
-      url: "https://bit.ly/3VJy43S"
-      weight: 6
 
 taxonomies:
   series: "series"
