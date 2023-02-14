@@ -9,6 +9,9 @@ tags = [
 		"Plantilla gratuita de plan de trabajo"
 ]
 +++
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5337517241673026"
+     crossorigin="anonymous"></script>
 # ¿Qué es un plan de trabajo?
 Un plan de trabajo es una herramienta esencial para cualquier empresario o emprendedor. Te ayuda a mantenerte centrado en lo que hay que hacer y cuándo.
 
