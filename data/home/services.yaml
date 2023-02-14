@@ -6,22 +6,22 @@ content:
   text: "Nuestros servicios están pensados en empresas y emprendedores que tienen la necesidad de un espacio en internet que les pertenezca y que sea creado pensando en ellos."
   cards:
     - image: "images/static_website.png"
-      title: "Sitios web informativos"
-      text: "los sitios web informativos son utiles para que pueda ser consultado por clientes potenciales y despues hacer transacciones en otra plataforma como whatsapp. También son útiles para poder posicionarse dentro de un mercado o nicho por medio de palabras clave en artículos. Estos son ejemplos de como un sitio web de este tipo puede adaptarse a su negocio."
+      title: "Sitios web estáticos"
+      text: "Un sitio web estático es un conjunto de páginas web que se muestran tal y como se han creado, sin interacción con el usuario. Ventajas incluyen simplicidad, rapidez y seguridad. Puede ser utilizado por empresas, emprendedores y negocios para mostrar información básica, productos, precios y horarios. Es ideal para sitios con contenido estable que no requiere actualización constante."
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Leer más"
+        url: "/post/sitio-web-estatico/"
 
     - image: "images/ecommerce.png"
-      title: "Tienda en línea"
-      text: "Las tiendas en línea son sitios web que sirven para hacer transacciones, los usuarios se pueden registrarse, agregar artículos al carrito, pagar, agregar direcciones de envío y todo lo que se puede hacer desde una tienda fisica desde la comodidad de su casa."
+      title: "Tienda en línea, e-commerce"
+      text: "Un sitio web e-commerce es una plataforma digital que permite a los negocios vender productos o servicios en línea. Las ventajas incluyen la facilidad de compra, el acceso 24/7 y la expansión del alcance del mercado. Las características incluyen un carrito de compras, pasarelas de pago, seguimiento de envíos y una interfaz de usuario intuitiva."
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Leer más"
+        url: "/post/e-commerce/"
 
     - image: "images/landing_page.png"
       title: "Landing pages"
-      text: "Las landing pages son sitios diseñados para convencer a los clientes potenciales que la visitan, de realizar una acción como proporcionar un correo electrónico, entrar a un webinar, agendar una cita o hasta comprar un producto."
+      text: "Una landing page es una página web diseñada específicamente para convertir visitantes en clientes potenciales o compradores. Sus características incluyen contenido claro, diseño atractivo y un llamado a la acción. Las ventajas incluyen un mayor retorno de inversión y la posibilidad de medir y mejorar la efectividad de la campaña publicitaria. Puede ser utilizado para promocionar productos o servicios, captar información de clientes potenciales o aumentar las ventas."
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Leer más"
+        url: "/post/landing-page/"
