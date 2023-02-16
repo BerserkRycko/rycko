@@ -9,6 +9,22 @@ tags = [
 		"sitio web"
 ]
 +++
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5337517241673026"
+     crossorigin="anonymous"></script>
+<!-- Anuncios en el blog de Rycko -->
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5337517241673026"
+     data-ad-slot="5359573623"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Un sitio web estático es una forma básica de presentar información en la web. A diferencia de los sitios web dinámicos que utilizan tecnologías avanzadas para generar contenido en tiempo real, un sitio web estático muestra el mismo contenido a todos los usuarios, independientemente de quiénes sean o de cuándo accedan al sitio.
 
 Las ventajas de tener un sitio web estático incluyen la simplicidad en la creación y el mantenimiento, la rapidez de carga y la seguridad. Además, los sitios web estáticos son más fáciles de indexar para los motores de búsqueda, lo que mejora su posicionamiento en los resultados de búsqueda.
