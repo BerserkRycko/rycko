@@ -9,6 +9,7 @@ tags = [
 		"sitio web"
 ]
 +++
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5337517241673026"
      crossorigin="anonymous"></script>
 <!-- Anuncios en el blog de Rycko -->
@@ -23,6 +24,11 @@ tags = [
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+![¿Qué es una página web?][def]
+
+[def]: /images/pagina-web-que-es.png
+
 Una página web es una colección de documentos electrónicos que están disponibles en internet. Estos documentos pueden ser visualizados en un navegador web y contienen información sobre un tema específico. Cada página web tiene una dirección única llamada URL, que permite a los usuarios acceder a la información en ella.
 
 Las páginas web pueden tener diferentes propósitos, como proporcionar información sobre una empresa, mostrar productos y servicios, compartir noticias y opiniones, o simplemente entretener. Muchas páginas web también incluyen enlaces a otras páginas web relacionadas, lo que permite a los usuarios navegar por diferentes sitios y descubrir más información.
