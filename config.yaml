@@ -51,7 +51,7 @@ menus:
       weight: 3
 
     - name: 'Precios'
-      url: '/price'
+      url: '/prices'
       weight: 4
 
     - name: 'Blog'
