@@ -55,7 +55,7 @@ menus:
       weight: 4
 
     - name: 'Blog'
-      url: '/blog'
+      url: '/posts'
       weight: 5
 
   buttons:
