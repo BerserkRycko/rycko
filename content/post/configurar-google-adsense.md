@@ -35,6 +35,10 @@ Tabla de contenidos:
 - [Paso 5: Colocar los anuncios en tu sitio web siguiendo las políticas de Google](#colocar-anucios-google-adsense)
 - [Paso 6: Monitorear el rendimiento de los anuncios para asegurarte de que están generando ingresos](#monitorear-rendimiento-anucios-google-adsense)
 
+![Cómo configurar Google adsense][def]
+
+[def]: /images/Scenes05.png
+
 Google AdSense es una plataforma publicitaria en línea que permite a los propietarios de sitios web ganar dinero mediante la publicación de anuncios. Configurar correctamente la sección de anuncios de Google AdSense es importante para asegurarse de que los anuncios se muestren de manera efectiva y cumplan con las políticas de Google, lo que te permitirá maximizar tus ingresos publicitarios.
 
 ## Paso 1: Crear una cuenta de Google AdSense {#crear-cuenta-google-adsense}
