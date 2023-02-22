@@ -15,11 +15,13 @@ tags = [
 
 Tabla de contenidos:
 
+- [¿Por qué Divi es una excelente opción para tu sitio web?](#divi-excelente-opcion)
+- [Cómo usar Divi en tu sitio web](#como-usar-divi)
+- [Conclusión](#conclusion)
+
 ![¿Qué es Divi][def]
 
 [def]: /images/que-es-divi.png
-
--[¿Por qué Divi es una excelente opción para tu sitio web?](#divi-excelente-opcion) -[Cómo usar Divi en tu sitio web](#como-usar-divi) -[Conclusión](#conclusion)
 
 Si estás buscando una forma de mejorar la apariencia y la funcionalidad de tu sitio web, entonces estás en el lugar correcto. En este artículo, vamos a profundizar en lo que es Divi y cómo puede ayudarte a crear un sitio web profesional y efectivo que atraiga a más visitantes y genere más conversiones.
 
