@@ -3,6 +3,7 @@ author = "Rycko"
 title = "Página web ¿Qué es?"
 date = "2023-02-16"
 description = "Definición de una página web y su función en internet"
+image = "https://rycko.online/images/pagina-web-que-es.png"
 tags = [
     "sitio web estático",
     "sitio web informativo",

@@ -3,6 +3,7 @@ author = "Rycko"
 title = "Plantilla gratuita para crear un plan de trabajo"
 date = "2023-02-12"
 description = "Obten gratis una plantilla de plan de trabajo, no tienes que registrarte."
+image="https://rycko.online/images/work.png"
 tags = [
     "Plan de trabajo",
     "plantilla gratuita",

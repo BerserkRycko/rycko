@@ -3,7 +3,7 @@ author = "Rycko"
 title = "¿Como configurar los anuncios de google adsense?"
 date = "2023-02-16"
 description = "¿Qué es Google AdSense y por qué es importante configurar correctamente la sección de anuncios?"
-image="/assets/images/ecommerce.png"
+image = "https://rycko.online/images/Scenes05.png"
 tags = [
     "sitio web estático",
     "sitio web informativo",

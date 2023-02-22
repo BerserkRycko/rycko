@@ -3,7 +3,7 @@ author = "Rycko"
 title = "¿Qué es un e-commerce?"
 date = "2023-02-14"
 description = "Un sitio web e-commerce es una herramienta muy importante para los negocios que quieran expandirse y abrir nuevos canales de ventas"
-img = "https://rycko.online/assets/images/ecommerce.png"
+image = "https://rycko.online/images/ecommerce.png"
 tags = [
     "tienda en linea",
     "e-commerce",
