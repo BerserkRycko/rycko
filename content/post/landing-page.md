@@ -3,7 +3,7 @@ author = "Rycko"
 title = "¿Qué es una landing page?"
 date = "2023-02-14"
 description = "Landing page o página de aterrizaje"
-image = "https://rycko.online/images/services-web-development-png"
+image = "https://rycko.online/images/services-web-development.png"
 tags = [
     "landing page",
     "pagina de aterrizaje",

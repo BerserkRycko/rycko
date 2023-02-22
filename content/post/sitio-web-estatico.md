@@ -3,7 +3,7 @@ author = "Rycko"
 title = "¿Qué es un sitio web estático?"
 date = "2023-02-14"
 description = ""
-image = "https://rycko.online/images/services-web-development-png"
+image = "https://rycko.online/images/services-web-development.png"
 tags = [
     "sitio web estático",
     "sitio web informativo",
