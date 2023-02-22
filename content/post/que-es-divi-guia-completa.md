@@ -45,6 +45,6 @@ Ahora que sabes por qué Divi es una excelente opción para tu sitio web, aquí 
 - Comenzar a personalizar: Después de instalar Divi, puedes comenzar a personalizar tu sitio web. Usa el constructor de páginas para arrastrar y soltar elementos en tu sitio web y personalizar todo para que se ajuste a tus necesidades.
 - Agregar complementos y herramientas de terceros: También puedes agregar complementos y herramientas de terceros para expandir aún más las capacidades de Divi. Hay una gran cantidad de complementos disponibles para Divi que te permiten agregar nuevas funcionalidades a tu sitio web.
 
-## Conclusión {conclusion}
+## Conclusión {#conclusion}
 
 En resumen, Divi es un tema de WordPress altamente personalizable y fácil de usar que se puede utilizar para crear sitios web de cualquier tipo. Su constructor de páginas visual, biblioteca de diseños y compatibilidad con complementos de terceros lo hacen muy versátil y flexible.
