@@ -74,5 +74,4 @@ menus:
       weight: 2
 
 taxonomies:
-  series: 'series'
   tags: 'tags'
