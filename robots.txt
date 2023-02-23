@@ -1,3 +1,1 @@
-<h2>
-	Pagina no encontrada.
-</h2>
+User-agent : * Disallow: /archives
