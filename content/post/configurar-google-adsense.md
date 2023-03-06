@@ -39,11 +39,11 @@ Tabla de contenidos:
 
 [def]: /images/Scenes05.png
 
-Google AdSense es una plataforma publicitaria en línea que permite a los propietarios de sitios web ganar dinero mediante la publicación de anuncios. Configurar correctamente la sección de anuncios de Google AdSense es importante para asegurarse de que los anuncios se muestren de manera efectiva y cumplan con las políticas de Google, lo que te permitirá maximizar tus ingresos publicitarios.
+Google AdSense es una plataforma publicitaria en línea que permite a los propietarios de sitios web ganar dinero mediante la publicación de anuncios. Configurar correctamente la sección de anuncios de [Google AdSense](https://adsense.google.com/) es importante para asegurarse de que los anuncios se muestren de manera efectiva y cumplan con las políticas de Google, lo que te permitirá maximizar tus ingresos publicitarios.
 
 ## Paso 1: Crear una cuenta de Google AdSense {#crear-cuenta-google-adsense}
 
-El primer paso para configurar la sección de anuncios de Google AdSense es crear una cuenta de AdSense. Para hacerlo, visita el sitio web de Google AdSense y sigue las instrucciones para registrarte. Asegúrate de proporcionar información precisa y actualizada durante el proceso de registro para que puedas recibir los pagos correctamente.
+El primer paso para configurar la sección de anuncios de Google AdSense es crear una cuenta de AdSense. Para hacerlo, visita el sitio web de [Google AdSense](https://adsense.google.com/) y sigue las instrucciones para registrarte. Asegúrate de proporcionar información precisa y actualizada durante el proceso de registro para que puedas recibir los pagos correctamente.
 
 ## Paso 2: Configurar los detalles de pago en tu cuenta de AdSense {#configurar-pago-cuenta-adsense}
 

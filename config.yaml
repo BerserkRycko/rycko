@@ -50,13 +50,9 @@ menus:
       url: '/about'
       weight: 3
 
-    - name: 'Precios'
-      url: '/prices'
-      weight: 4
-
     - name: 'Blog'
       url: '/posts'
-      weight: 5
+      weight: 4
 
   buttons:
     - name: 'Consulta gratuita'
