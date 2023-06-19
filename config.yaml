@@ -2,15 +2,15 @@ baseURL: 'https://rycko.online/'
 theme: 'up-business-theme'
 languageCode: 'en-us'
 
-title: 'Programación web'
+title: 'Rycko'
 
 googleAnalytics: 'G-65S3XZGWSZ'
 
 summaryLength: 20
 
 params:
-  title: 'Programación web'
-  description: 'Proveedor de servicios de programación web, maquetación web, reparación y mejoramiento de sitios web, los mantenemos y los administramos por ti.'
+  title: 'Rycko Programación web y Marketing Digital'
+  description: 'Somos una empresa líder en diseño y desarrollo de páginas web, especializada en marketing digital, comunicación y branding. Ofrecemos servicios de diseño web personalizado, asesoramiento en marketing digital, estrategias de comunicación efectiva y construcción de identidad de marca. Nuestro objetivo es mejorar la presencia en línea de nuestros clientes y ayudarles a alcanzar el éxito en el mundo digital. Contáctenos hoy mismo para descubrir cómo podemos ayudarlo a lograr sus objetivos y hacer crecer su negocio en línea.'
   images:
     - 'images/hero-image.png'
 
@@ -22,9 +22,9 @@ params:
     faviconColor: '#000000'
 
   social:
-    tiktok: '#'
-    instagram: '#'
-    facebook: '#'
+    tiktok: 'https://www.tiktok.com/@rycko.online'
+    instagram: 'https://www.instagram.com/rycko.online/'
+    facebook: 'https://www.facebook.com/ryckofreelance'
     youtube: '#'
 
   location:
@@ -34,7 +34,7 @@ params:
     - 'negociosrentablesdigitales@gmail.com'
     - '272 143 2867'
 
-  copyright: '© 2022 Servicios de programación web'
+  copyright: '© 2023 rycko.online servicios de programación web y '
 
 menus:
   main:

@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Servicios de programación web"
-  text: "Ofrecemos servicios profesionales de programación web para ayudarle a crear un sitio web que sea funcional y atractivo. Trabajamos contigo para asegurarnos de que tu sitio web está diseñado específicamente para satisfacer tus necesidades, de modo que funcione bien y cumpla su propósito."
+  title: "Rycko"
+  text: "Somos una empresa líder en diseño y desarrollo de páginas web, especializada en marketing digital, comunicación y branding. Ofrecemos servicios de diseño web personalizado, asesoramiento en marketing digital, estrategias de comunicación efectiva y construcción de identidad de marca. Nuestro objetivo es mejorar la presencia en línea de nuestros clientes y ayudarles a alcanzar el éxito en el mundo digital. Contáctenos hoy mismo para descubrir cómo podemos ayudarlo a lograr sus objetivos y hacer crecer su negocio en línea."
 
   buttonPrimary:
     label: "Nuestra forma de trabajo."

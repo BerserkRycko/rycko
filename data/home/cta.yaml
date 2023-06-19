@@ -5,5 +5,5 @@ content:
   title: '¡Empieza ya!'
   image: 'images/cta.png'
   button:
-    label: 'Ponte en contacto con nosotros'
-    url: '/contacto'
+    label: 'Reserva una asesoría gratuita'
+    url: 'https://bit.ly/3VJy43S'

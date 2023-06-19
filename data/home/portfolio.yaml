@@ -3,7 +3,7 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio de trabajos"
+    pretitle: "Sitios web perfectos para ti"
     title: "Desarrollamos sitios web a la medida perfecta."
     text: "El tipo de sitio web que necesita depende de su nicho y de sus objetivos comerciales. Nuestro equipo trabajará con usted para crear el sitio web perfecto para sus necesidades. Su sitio debe reflejar su personalidad, su marca y proporcionar una forma eficaz de comunicarse con sus clientes."
 
@@ -16,8 +16,8 @@ content:
 
   - image: "images/savings.png"
     pretitle: "Paga lo justo"
-    title: "Paga lo justo"
-    text: "Tenemos diferentes tipos de sitios web, páginas de aterrizaje y comercio electrónico. Adaptamos o creamos el sitio web perfecto para ti, no te sobrevendremos servicios, sólo paga por lo que necesitas y utilizas."
+    title: "Sin sobreventa de servicios"
+    text: "Adaptamos o creamos el sitio web y la estrategia perfecta para ti, no te sobrevenderemos servicios, sólo paga por lo que necesitas y utilizas."
 
     buttons:
       # - label: "See live"
@@ -27,9 +27,9 @@ content:
         url: "/paga-lo-justo"
 
   - image: "images/teach.png"
-    pretitle: "Portfolio Service"
-    title: "Te enseñamos a utilizar tu sitio web"
-    text: "Te mostramos como utilizar tu sitio web, aunque no tengas experiencia, si no tienes tiempo de administrarlo podemos trabajar contigo para administrarlo por ti."
+    pretitle: "Creamos la estrategia perfecta para ti"
+    title: "Creamos la estrategia perfecta para ti"
+    text: "Te mostramos como utilizar tu sitio web para posicionarte y su útilidad dentro de tu estrategia de marketing, aunque no tengas experiencia, si no tienes tiempo de administrarlo podemos trabajar contigo para administrarlo por ti, también creamos la estrategia de marketing efectiva para posicionarte en Internet. Te asesoraremos y trabajaremos contigo paso a paso."
 
     buttons: 
       # - label: "See live"
