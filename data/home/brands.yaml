@@ -1,9 +1,0 @@
-enabled: true
-id: "brands"
-
-content:
-  title: "Trabajamos con empresas que quieren crecer "
-  items:
-    - "images/brands_la-victoria.png"
-    - "images/brands-teracom.png"
-    - "images/brands-adobe.png"

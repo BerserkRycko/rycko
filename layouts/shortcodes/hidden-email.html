@@ -1,0 +1,35 @@
+<script>
+function emailRevealer(){
+    var buttonText = document.getElementById("button-text");
+    buttonText.innerText = "";
+    
+    var spinner = document.getElementById('spinner');
+    spinner.classList.add("spinner-border", "spinner-border-sm");
+
+    function displayEmail() {
+        {{ with .Site.Params.ContactEmail }}
+            var text = "{{ . }}"
+        {{ else }}
+            var text = "Define your contact email in config.toml to display here."
+        {{ end }}
+
+        var emailDisplay = document.getElementById("email-display");
+        emailDisplay.innerText = text
+
+        spinner.classList.remove("spinner-border", "spinner-border-sm");
+        buttonText.innerText = "Click me";
+    }
+
+    setTimeout(displayEmail, 2000);
+}
+</script>
+
+<p>
+Si necesitas ayuda con tu sitio web, email marketing, configuración de tu servicio de hosting, servicios de google, marketing digital, posicionamiento SEO o cualquier otro tema relacionado con tu presencia en internet, no dudes en contactarme en cualquiera de mis canales en la esquina superior izquierda o haz click en el botón a continuación para ver mi correo electrónico.
+<button class="btn btn-dark" type="button" onclick="emailRevealer();">
+    <span id="spinner" role="status" aria-hidden="true"></span>
+    <span id="button-text">Haz click aquí</span>
+</button> para mostrar mi email
+</p>
+
+<h3 id="email-display"></h3>

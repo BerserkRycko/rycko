@@ -1,0 +1,20 @@
+items:
+  - title: Necesarios
+    description: Estos rastreadores se utilizan para actividades que son estrictamente necesarias para gestionar o prestar el servicio que usted nos ha solicitado y, por tanto, no exigen su consentimiento.
+    is_functional: true
+    script_file: ga.js
+  - title: Funcionalidad
+    description: Estos rastreadores hacen posibles interacciones y funcionalidades básicas que le permiten acceder a determinadas características de su servicio y facilitan su comunicación con nosotros.
+    is_functional: false
+    script_file: crisp.js
+  - title: Experiencia
+    description: Estos rastreadores nos ayudan a mejorar la calidad de su experiencia de usuario y permiten la interacción con los contenidos, las redes y las plataformas externos.
+    is_functional: false
+    script_file: crisp.js
+  - title: Medición
+    description: Estos rastreadores nos ayudan a medir el tráfico y a analizar su comportamiento con el fin de mejorar nuestro servicio.
+    script_file: crisp.js
+  - title: Marketing
+    description: Estos rastreadores nos ayudan a entregarle anuncios o contenidos promocionales personalizados, y a medir su rendimiento.
+    is_functional: false
+    script_file: crisp.js

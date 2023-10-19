@@ -1,0 +1,22 @@
+baseURL = "https://rycko.online"
+canonifyURLs=true
+pluralizeListTitles = false
+summaryLength   = 25
+
+theme         = "BlogRa"
+languageCode  = "es"
+title         = "BlogRa"
+
+disqusShortname = ""
+
+[markup.goldmark.parser.attribute]
+    block = true
+
+# Don't touch this
+[markup.goldmark.renderer]
+    unsafe = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.102.3"

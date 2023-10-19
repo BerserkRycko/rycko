@@ -1,0 +1,15 @@
+<footer class="text-center py-5">
+    <p>
+        {{ with .Site.Params.footer }}
+            {{ . }}
+        {{ else }}
+        © 2023 <a href="https://rycko.online/" target="_blank">Rycko</a>.<br />
+        <a href="/terminos-y-condiciones/">Términos y condiciones.</a> | <a href="/politicas-de-privacidad">Políticas de privacidad</a>
+        {{ end }}
+    </p>
+</footer>
+
+{{ with .Site.Params.GoogleSearch }}
+<script async src="https://cse.google.com/cse.js?cx={{ . }}"></script>
+<gcse:searchresults-only></gcse:searchresults-only>
+{{ end }}
