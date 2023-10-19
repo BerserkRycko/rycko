@@ -1,11 +1,11 @@
-baseURL = "https://example.com/blogra/"
+baseURL = "https://rycko.online"
 canonifyURLs=true
 pluralizeListTitles = false
 summaryLength   = 25
 
 theme         = "BlogRa"
 languageCode  = "en-us"
-title         = "BlogRa"
+title         = "Rycko"
 
 disqusShortname = ""
 
