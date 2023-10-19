@@ -16,6 +16,74 @@ disqusShortname = ""
 [markup.goldmark.renderer]
     unsafe = true
 
+[menu]
+    [[menu.main]]
+        name = "Inicio"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "sitios-web"
+        name = "Sitios Web"
+        weight = 2
+            [[menu.main]]
+                parent = "sitios-web"
+                name = "¿Qué es un sitio web estático?"
+                url = "/sitios-web/que-es-un-sitio-web-estatico/"
+                weight = 1
+            [[menu.main]]
+                parent = "sitios-web"
+                name = "Tipos de páginas web"
+                url = "/sitios-web/tipos-de-paginas-web/"
+                weight = 1
+    [[menu.main]]
+        identifier = "marketing"
+        name = "Marketing"
+        weight = 3
+            [[menu.main]]
+                parent = "marketing"
+                name = "El poder del CRM: cómo mejorar la relación con tus clientes"
+                url = "/marketing/qué-es-la-crm/"
+                weight = 1
+    [[menu.main]]
+        identifier = "ai"
+        name = "Inteligencia artificial"
+        weight = 4
+            [[menu.main]]
+                parent = "ai"
+                name = "Imágenes de Inteligencia Artificial: Un Futuro Brillante"
+                url = "/ai/imagenes-de-inteligencia-artificial/"
+                weight = 1
+    [[menu.main]]
+        name = "Presentación"
+        url = "/about/"
+        weight = 5
+    [[menu.main]]
+        name = "Etiquetas"
+        url = "/tags/"
+        weight = 6
+    [[menu.main]]
+        name = "Contacto"
+        url = "/contact/"
+        weight = 7
+
+[params]
+    description     = "Tutoriales, videos y código sobre sitios web, administración de servidores, marketing digital e inteligencia artificial."
+    contactEmail    = "negociosrentablesdigitales@gmail.com"
+    footer          = ""
+    googleSearch    = "64xVXr1yzA1lli8Xy6YID58CKoET520yA2KvQW0Nh1o"
+    googleAnalytics = "G-65S3XZGWSZ"      # Google Analytics v4
+    adsense         = "adsense-key"
+    math            = false   # best to enable this in the front matter of a page
+    mermaid         = false   # best to enable this in the front matter of a page
+
+    # Social Media Params
+    facebook   = "https://www.facebook.com/ryckofreelance/"
+    X    = "https://twitter.com/_rycko"
+    youtube    = "https://www.youtube.com/channel/UCSm3LftGlp72OzUJPaFwDmQ"
+    instagram  = "https://www.instagram.com/rycko.online/"
+    linkedin   = "https://www.linkedin.com/in/rycko/"
+
 [module]
   [module.hugoVersion]
     extended = true
