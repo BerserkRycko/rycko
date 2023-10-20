@@ -14,12 +14,12 @@ title = 'Rycko'
         weight = 2
             [[menu.main]]
                 parent = "sitios-web"
-                name = "¿Qué es un sitio web estático?"
+                name = "sitio web estático"
                 url = "/sitios-web/que-es-un-sitio-web-estatico/"
                 weight = 1
             [[menu.main]]
                 parent = "sitios-web"
-                name = "Tipos de páginas web"
+                name = "Tipos de sitios web"
                 url = "/sitios-web/tipos-de-paginas-web/"
                 weight = 1
     [[menu.main]]
@@ -28,8 +28,13 @@ title = 'Rycko'
         weight = 3
             [[menu.main]]
                 parent = "marketing"
-                name = "El poder del CRM: cómo mejorar la relación con tus clientes"
+                name = "El poder del CRM"
                 url = "/marketing/qué-es-la-crm/"
+                weight = 1
+            [[menu.main]]
+                parent = "marketing"
+                name = "anuncios de google"
+                url = "/marketing/configuracion-anuncios-de-google/"
                 weight = 1
     [[menu.main]]
         identifier = "ai"
@@ -37,7 +42,7 @@ title = 'Rycko'
         weight = 4
             [[menu.main]]
                 parent = "ai"
-                name = "Imágenes de Inteligencia Artificial: Un Futuro Brillante"
+                name = "Imágenes de IA"
                 url = "/ai/imagenes-de-inteligencia-artificial/"
                 weight = 1
     [[menu.main]]

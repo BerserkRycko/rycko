@@ -41,6 +41,8 @@ La configuración de dispositivos te permite elegir en qué dispositivos se most
 
 La configuración de idioma te permite elegir el idioma en el que se mostrarán tus anuncios. Si tu sitio web está en español, es posible que desees que tus anuncios se muestren solo a personas que hablan español.
 
+![configuración anuncios de google](/marketing/configuracion-anuncios-de-google/google-ads-2.jpg/)
+
 ## Cómo optimizar la configuración de los anuncios para la segmentación por ubicación
 
 La segmentación geográfica es una forma efectiva de asegurarte de que tus anuncios lleguen a la audiencia adecuada. Si tienes una tienda física o un negocio que atiende a clientes en una ubicación específica, es importante que ajustes tu configuración de anuncios para reflejar esto.
@@ -72,6 +74,8 @@ La segmentación de dispositivos te permite elegir en qué dispositivos se mostr
 Para comenzar, haz clic en "Configuración" en tu cuenta de Google Ads. Luego, selecciona "Dispositivos" en el menú desplegable y elige los dispositivos en los que deseas mostrar tus anuncios. También puedes ajustar las ofertas en función del dispositivo, para asegurarte de que estás obteniendo el máximo rendimiento de tus anuncios.
 
 Es importante que revises tu configuración de dispositivos con regularidad para asegurarte de que tus anuncios se están mostrando en los dispositivos adecuados. Si tus anuncios se muestran en dispositivos que no son relevantes para tu audiencia, estás desperdiciando tu presupuesto publicitario.
+
+![configuración anuncios de google](/marketing/configuracion-anuncios-de-google/google-ads-3.jpg/)
 
 ## Programación de anuncios y optimización para momentos específicos
 
