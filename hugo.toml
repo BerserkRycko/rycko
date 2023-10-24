@@ -27,15 +27,20 @@ title = 'Rycko'
         name = "Marketing"
         weight = 3
             [[menu.main]]
-                parent = "marketing"
-                name = "El poder del CRM"
-                url = "/marketing/qué-es-la-crm/"
+                parent = "sitios-web"
+                name = "sitio web estático"
+                url = "/sitios-web/que-es-un-sitio-web-estatico/"
                 weight = 1
             [[menu.main]]
-                parent = "marketing"
-                name = "anuncios de google"
-                url = "/marketing/configuracion-anuncios-de-google/"
-                weight = 1
+                parent = "sitios-web"
+                name = "Tipos de sitios web"
+                url = "/sitios-web/tipos-de-paginas-web/"
+                weight = 2
+            [[menu.main]]
+                parent = "sitios-web"
+                name = "Crear sitios web"
+                url = "/sitios-web/crear-sitios-web/"
+                weight = 3
     [[menu.main]]
         identifier = "ai"
         name = "Inteligencia artificial"

@@ -35,7 +35,13 @@ disqusShortname = ""
                 parent = "sitios-web"
                 name = "Tipos de sitios web"
                 url = "/sitios-web/tipos-de-paginas-web/"
-                weight = 1
+                weight = 2
+            [[menu.main]]
+                parent = "sitios-web"
+                name = "Crear sitios web"
+                url = "/sitios-web/crear-sitios-web/"
+                weight = 3
+
     [[menu.main]]
         identifier = "marketing"
         name = "Marketing"
