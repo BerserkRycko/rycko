@@ -1,0 +1,27 @@
+---
+title: Mi Portafolio
+---
+
+{{ define "main" }}
+<main class="portfolio-content">
+    <div class="container">
+        <h1 class="portfolio-title">{{ .Title }}</h1>
+        <div class="row">
+            {{ range .Site.Pages }}
+            {{ if eq .Section "portfolio" }}
+            <div class="col-md-4">
+                <div class="portfolio-item">
+                    <a href="{{ .Permalink }}">
+                        {{ with .Params.image }}
+                        <img src="{{ . | relURL }}" alt="{{ .Alt }}" class="portfolio-image">
+                        {{ end }}
+                    </a>
+                    <h2 class="portfolio-item-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                </div>
+            </div>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</main>
+{{ end }}
