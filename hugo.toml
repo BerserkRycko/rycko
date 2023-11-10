@@ -41,6 +41,11 @@ title = 'Rycko'
                 name = "Crear sitios web"
                 url = "/sitios-web/crear-sitios-web/"
                 weight = 3
+            [[menu.main]]
+                parent = "marketing"
+                name = "Lead scoring"
+                url = "/marketing/que-es-lead-scoring/"
+                weight = 4
     [[menu.main]]
         identifier = "ai"
         name = "Inteligencia artificial"
